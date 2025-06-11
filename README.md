@@ -37,6 +37,11 @@ Puedes iniciar sesión con:
 Correo: usuario@edu.com
 
 Contraseña: 123456
+DARLE VARIAS VECES HASTA QUE ENTRE, A VECES NO ENTRA A LA PRIMERA
+
+edutask-pvsw21wmz-samuelsierra07s-projects.vercel.app
+https://edutask-steel.vercel.app
+
 
 Estos datos están definidos en el archivo db.json.
 
