@@ -1,12 +1,44 @@
-# React + Vite
+EduTask — Gestor de Tareas Académicas 📚✅
+EduTask es una aplicación web desarrollada como prueba técnica para el cargo de Front-End Developer Jr. en una startup educativa. Su propósito es permitir a los estudiantes gestionar sus tareas académicas de forma intuitiva y eficiente.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Funcionalidades
+🔐 Inicio de sesión con validación simulada
 
-Currently, two official plugins are available:
+✅ Crear, editar, eliminar tareas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+📌 Marcar tareas como completadas
 
-## Expanding the ESLint configuration
+🔍 Buscar por materia y filtrar por estado
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📊 Resumen visual (total, completadas, pendientes)
+
+🔓 Cierre de sesión con limpieza de sesión
+
+🎨 Estilo limpio, moderno y responsive
+
+⚠️ Confirmaciones visuales con SweetAlert2
+
+🛠️ Tecnologías utilizadas
+React (Vite)
+
+React Router DOM
+
+JavaScript ES6+
+
+CSS puro
+
+JSON Server (API simulada)
+
+SweetAlert2
+
+🧾 Usuario de prueba
+Puedes iniciar sesión con:
+
+Correo: usuario@edu.com
+
+Contraseña: 123456
+
+Estos datos están definidos en el archivo db.json.
+
+👨‍💻 Autor
+Desarrollado por SAMUEL SIERRA como entrega de la prueba técnica del módulo Web 2 - Nivel 3.
