@@ -1,0 +1,10 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "usuario@edu.com",
+      "password": "123456"
+    }
+  ],
+  "tasks": []
+}
